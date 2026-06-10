@@ -3,6 +3,8 @@
 This repository contains the codebase for EXASPO, a Korean colloquial-specific LLM designed to enhance natural and engaging Korean conversation.   
 EXASPO is built upon the Korean-dominant EXAONE-3.5 models (2.4B and 7.8B) and is continually pre-trained on 9.5 GB of Korean colloquial data, followed by instruction tuning to generate contextually appropriate colloquial responses.
 
+You can find our model on the HuggingFace Hub: https://huggingface.co/JunHaHwang/EXASPO-3.5-7.8B-Instruct
+
 ### Environment Setup
 
 It is recommended to use a virtual environment (e.g. `venv`). 
